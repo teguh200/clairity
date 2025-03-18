@@ -28,13 +28,13 @@ mc
 
 edit file in ./media/settings/config.js
 ```bash
-global.botname = "Clairity Bot" // bot name
-global.ownerNumber = [`${global.owner}`,'no2','no3'] // no owner can access all features
-global.email = '@gmail.com' // leave blank if you don't have one
+global.botname = "Guhh Neverheartless" // bot name
+global.ownerNumber = [`${global.6285238753330}`,'no2','no3'] // no owner can access all features
+global.email = 'GuhhBotz@gmail.com' // leave blank if you don't have one
 global.web = 'https://' // leave blank if you don't have one
-global.location = 'Banten' // fill in your area or place of residence if you don't want to leave it blank
-global.packname = 'clairiry' // wm on the sticker
-global.author = 'created by xZiyy' // wm on the sticker
+global.location = 'Malang, Jawa Timur, Indonesia' // fill in your area or place of residence if you don't want to leave it blank
+global.packname = 'Guhhputraa' // wm on the sticker
+global.author = 'created by Guhh Neverheartless' // wm on the sticker
 ```
 
 License: [MIT](https://choosealicense.com/licenses/mit/)
